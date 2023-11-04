@@ -1,0 +1,52 @@
+body { 
+    background: black; 
+
+}
+img {
+    width: 100%;
+
+}
+.post {
+    background-color: white;
+    width: 400px;
+    height: 570px;
+    margin: auto;
+}
+
+.post-header { 
+    display: flex; 
+
+}
+
+.post-icons { 
+    display: flex;
+}
+
+.icons{
+    width: 95%;
+    padding:3px;
+
+}
+.icon2{
+    width:5%;
+}
+
+.icon-header1{
+    padding-top: 15px;
+    font-size: x-large;
+}
+.icon-header2{
+    width:95%;
+    padding-top: 15px;
+}
+
+.icon-header3{
+    width:5%;
+    padding-top: 15px;
+}
+
+p{
+    text-align: justify;
+    margin-left: 5px;
+    margin-right: 5px;
+}
